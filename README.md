@@ -16,6 +16,7 @@
 四、常用cmd命令
 
 (```)
+
     killall -9 SpringBoard // 重启App桌面
 
     open com.apple.Preferences // 打开设置
@@ -25,5 +26,6 @@
     open YourAppBundleID // 打开App
 
     killall -9 YourAppName // 关闭App
+    
 (```)
 
