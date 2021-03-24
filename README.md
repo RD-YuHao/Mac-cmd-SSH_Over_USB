@@ -14,6 +14,7 @@
 三、[越狱设备命令cmd等插件和安装ipa包](https://www.jianshu.com/p/b46a96bb7416)
 
 四、常用cmd命令
+
 (```)
 killall -9 SpringBoard // 重启App桌面
 
