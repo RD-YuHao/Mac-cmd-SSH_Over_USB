@@ -11,6 +11,18 @@
     
   [MonkeyDev 报错CydiaSubstrate.tbd处理方法](https://www.jianshu.com/p/060be025eb13)
     
- 
-   
+三、[越狱设备命令cmd等插件和安装ipa包](https://www.jianshu.com/p/b46a96bb7416)
 
+四、常用cmd命令
+(```)
+killall -9 SpringBoard // 重启App桌面
+
+open com.apple.Preferences // 打开设置
+
+killall -9 Preferences // 关闭设置
+
+open YourAppBundleID // 打开App
+
+killall -9 YourAppName // 关闭App
+
+(```)
